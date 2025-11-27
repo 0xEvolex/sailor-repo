@@ -1,3 +1,7 @@
+# IMPORTANT FILES; DO NOT LEAK UNTIL SECURED
+
+sailor-fixer/latest_app_files/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
